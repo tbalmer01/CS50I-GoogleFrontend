@@ -52,7 +52,6 @@ nav img {
 	margin: auto 7px;
 	cursor: pointer;
 }
-
 nav button {
 	border: 1px solid #4285f4;
 	font-weight: bold;
@@ -72,7 +71,6 @@ nav button {
 	margin: 0px auto;
 	margin-top: 207px;
 }
-
 .T8VaVe { 
   width: 260px;
   margin: 0px auto;
@@ -81,7 +79,6 @@ nav button {
   text-align: right;
 	margin-top: -16px;
 }
-
 .s-box {
 	width: 580px;
 	margin: 0px auto;
@@ -172,7 +169,6 @@ footer {
   position:fixed;
   left:0px;
 }
-
 footer h4 {
 	color: rgba(0,0,0, 0.54);
 	font-size: 15px;
@@ -201,37 +197,27 @@ footer a:hover {
 .link-2 {
 	padding-right: 18.7px;
 }
-
-
-
 .appbar {
     color: #d93025;
     font-size: 20px;
     margin: 32px 35px;
 }
-
-
 div.caja1 {
     max-width: 1140px;
     min-width: 200px;
     width: 96%;
     margin: 40px 2% 0 45px;
 }
-
-
 .gy3Eif {
     border-bottom: 1px solid #ebebeb;
 }
-
 .otByu {
     width: 100%;
     clear: both;
 }
-
 div.otByu div.yIQOUb {
     clear: both;
 }
-
 div.otByu div.FAcADc {
     float: left;
     display: inline-block;
@@ -243,13 +229,11 @@ div.otByu div.FAcADc {
     line-height: 16px;
     vertical-align: middle;
 }
-
 div.lOTAE {
     height: 30px;
     display: table-cell;
     vertical-align: middle;
 }
-
 div.otByu div.jYcx0e {
     float: left;
     display: inline-block;
@@ -258,9 +242,6 @@ div.otByu div.jYcx0e {
     vertical-align: middle;
     width: 50%;
 }
-
-
-
 .jfk-textinput {
     -webkit-border-radius: 1px;
     -moz-border-radius: 1px;
@@ -295,7 +276,6 @@ div.otByu div.jYcx0e {
     height: 30px;
     padding: 1px 8px;
 }
-
 div.otByu div.cwqNnb {
     float: left;
     width: 32%;
@@ -307,7 +287,6 @@ div.otByu div.cwqNnb {
     vertical-align: middle;
     position: relative;
 }
-
 div.otByu div.cwqNnb span.BFlQMb {
     color: #666;
     font-family: monospace;
@@ -325,7 +304,6 @@ div.otByu div.I1Kbt, div.lFApYd  {
     color: #333;
     vertical-align: middle;
 }
-
 div.otByu div.HoCfzc {
     float: left;
     display: inline-block;
@@ -334,7 +312,6 @@ div.otByu div.HoCfzc {
     vertical-align: middle;
     width: 50%;
 }
-
 div.otByu div.orcpGe {
     float: left;
     width: 33%;
@@ -344,10 +321,6 @@ div.otByu div.orcpGe {
     padding-left: 5px;
     vertical-align: middle;
 }
-
-
-
-
 @media (max-width: 1050px) {
   div.cwqNnb {
     display: none;
@@ -356,7 +329,6 @@ div.otByu div.orcpGe {
     display: none;
   }
 }
-
 span {
     font-family: arial,sans-serif;
     color: #333;
@@ -369,18 +341,15 @@ span {
     vertical-align: baseline;
     text-decoration: none;    
 }
-
 div.otByu div.jYcx0e input[type="text"], div.otByu div.jYcx0e span.PnexQd {
     width: 100%;
     text-align: left;
 }
-
 input[type=text]:focus {
   border: 1px solid #2985db;
   box-shadow: inset 0px 1px 0px #dbb79f;
   outline: none;
 }
-
 .jfk-button-action {
     border-radius: 2px;
     cursor: default;
@@ -402,7 +371,6 @@ input[type=text]:focus {
     height: 30px;
     min-width: 120px;
 }
-
 div.Qy8Xkb {
     margin: 18px 0;
     clear: both;
